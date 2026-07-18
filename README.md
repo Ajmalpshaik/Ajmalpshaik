@@ -31,9 +31,13 @@ pyRevit tool install repository, also built to run across Revit 2020–2027.
 
 ### Tools I work in
 
-Revit · C# · Python · PowerShell · .NET / WPF
+![Revit](https://img.shields.io/badge/Revit-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![pyRevit](https://img.shields.io/badge/pyRevit-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![.NET / WPF](https://img.shields.io/badge/.NET%20%2F%20WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/ajmalps)
-
