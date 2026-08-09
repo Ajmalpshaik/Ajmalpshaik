@@ -1,43 +1,35 @@
-# Ajmal P S
+# Ajmal P.S
 
-**BIM Modeller who builds his own Revit tools**
+**BIM Coordinator · MEP BIM Specialist · Revit Automation Developer**
+Doha, Qatar · [ajmalps.com](https://ajmalps.com) · [LinkedIn](https://www.linkedin.com/in/ajmalps/) · ajmalnattika@gmail.com
 
-Doha, Qatar · [LinkedIn](https://www.linkedin.com/in/ajmalps)
+I have spent 10+ years delivering MEP BIM in Qatar, on airports, petrochemical plants, schools, towers and mixed-use projects, on both the consultant and the contractor side. HVAC, plumbing, drainage, firefighting and water supply.
 
----
+The part that sets my work apart is what happens around the model. I build the automation my team runs on.
 
-### About
+## AJ-Tools
 
-I model buildings for a living. When Revit didn't do what my projects needed, I stopped waiting for
-someone else to fix it and started building my own add-ins instead. I'm not a trained programmer — I
-design the tool and the workflow, pair with AI to turn it into working C# code, and verify every result
-live against a real Revit model before it ships.
+My in-house Revit add-in suite, built in C# and pyRevit, packaged with its own installer so the whole drafting team runs the same version of the same tools. It started as AutoLISP routines to stop repeating drafting work by hand and grew into a full suite: sheet setup, parameter management, duct tools, clash helpers, model QA and family building.
 
-### Projects
+## AJ AI Brain
 
-**[AJ Tools](https://github.com/Ajmalpshaik/AJ-Tools)**
-Revit add-in I use on my own daily modelling work. Two ribbon tabs — AJ Tools and AJ Annotation — covering
-view, graphics, datum, MEP, coordination, annotation, dimensioning, and tagging tools, plus a built-in AI
-shell. One codebase, Revit 2020 → 2027.
-*C#, WPF*
+An AI agent that carries out real Revit modelling work on a live, open model. A Node.js MCP connector links the agent straight into the Revit session, so it reads and edits real elements, parameters and views instead of only describing them.
 
-**[AJ-Tools-Installer](https://github.com/Ajmalpshaik/AJ-Tools-Installer)**
-Public installer for AJ Tools — download, install, done.
-*PowerShell*
+- 9 task workflows, from HVAC air terminal layout to sprinkler spacing checks against NFPA 13
+- 267 reusable Revit API C# fragments, compile-checked against the real API
+- 23 knowledge documents the agent reads before it acts
 
-**[AEB-Tools](https://github.com/Ajmalpshaik/AEB-Tools)**
-pyRevit tool install repository, also built to run across Revit 2020–2027.
-*Python*
+## What I work with
 
-### Tools I work in
+`Revit (to 2027)` `Navisworks Manage` `AutoCAD` `Dynamo` `BIM 360 / ACC` `C# / Revit API` `pyRevit / Python` `AutoLISP` `Visual Studio` `Node.js MCP`
 
-![Revit](https://img.shields.io/badge/Revit-0696D7?style=flat-square&logo=autodesk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![pyRevit](https://img.shields.io/badge/pyRevit-3776AB?style=flat-square&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![.NET / WPF](https://img.shields.io/badge/.NET%20%2F%20WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+## Selected projects
+
+- Polyethylene Plant, Ras Laffan Petrochemicals Industrial City
+- Doha International Airport, FIFA 2022 renovation
+- Qatar Private Schools Development Programme, PPP Package 2 (14 schools)
+- Madinat Mawater, Union Residential Tower, New El Haraj Souq
 
 ---
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/ajmalps)
+Portfolio and contact: **[ajmalps.com](https://ajmalps.com)**
