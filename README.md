@@ -1,7 +1,7 @@
 # Ajmal P.S
 
 **BIM Coordinator · MEP BIM Specialist · Revit Automation Developer**
-Doha, Qatar · [ajmalps.com](https://ajmalps.com) · [LinkedIn](https://www.linkedin.com/in/ajmalps/) · ajmalnattika@gmail.com
+Doha, Qatar · [ajmalps.com](https://ajmalps.com/?ref=github-profile) · [LinkedIn](https://www.linkedin.com/in/ajmalps/) · ajmalnattika@gmail.com
 
 I have spent 10+ years delivering MEP BIM in Qatar, on airports, petrochemical plants, schools, towers and mixed-use projects, on both the consultant and the contractor side. HVAC, plumbing, drainage, firefighting and water supply.
 
@@ -32,4 +32,4 @@ An AI agent that carries out real Revit modelling work on a live, open model. A 
 
 ---
 
-Portfolio and contact: **[ajmalps.com](https://ajmalps.com)**
+Portfolio and contact: **[ajmalps.com](https://ajmalps.com/?ref=github-profile-end)**
