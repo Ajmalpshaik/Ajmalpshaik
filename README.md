@@ -26,7 +26,7 @@ modelling work inside a live model.
 <tr>
 <td width="50%" valign="top">
 
-### 🪶 [Heron AI](https://github.com/Ajmalpshaik/Heron-AI)
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajmalpshaik/Heron-AI/main/docs/brand/heron-mark-white.svg"><img src="https://raw.githubusercontent.com/Ajmalpshaik/Heron-AI/main/docs/brand/heron-mark-ink.svg" alt="" height="22"></picture> [Heron AI](https://github.com/Ajmalpshaik/Heron-AI)
 
 Agent-based AI engineering platform for BIM. Describe Revit work in ordinary language — Heron
 handles the analysis, the code, the checks and the execution on a live, open model.
@@ -110,17 +110,6 @@ ISO 19650&nbsp; ·&nbsp; Qatar Construction Specifications (QCS)&nbsp; ·&nbsp; 
 ---
 
 <div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ajmalpshaik&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&theme=github_dark">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Ajmalpshaik&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub stats">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmalpshaik&layout=compact&hide_border=true&langs_count=6&theme=github_dark">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmalpshaik&layout=compact&hide_border=true&langs_count=6" alt="Top languages">
-</picture>
-
-<br><br>
 
 **Portfolio and contact — [ajmalps.com](https://ajmalps.com/?ref=github-profile-end)**
 
