@@ -26,7 +26,7 @@ modelling work inside a live model.
 <tr>
 <td width="50%" valign="top">
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajmalpshaik/Heron-AI/main/docs/brand/heron-mark-white.svg"><img src="https://raw.githubusercontent.com/Ajmalpshaik/Heron-AI/main/docs/brand/heron-mark-ink.svg" alt="" height="22"></picture> [Heron AI](https://github.com/Ajmalpshaik/Heron-AI)
+### <img src="https://raw.githubusercontent.com/Ajmalpshaik/Heron-AI/main/docs/brand/heron-app-icon-orange.png" alt="" height="22"> [Heron AI](https://github.com/Ajmalpshaik/Heron-AI)
 
 Agent-based AI engineering platform for BIM. Describe Revit work in ordinary language — Heron
 handles the analysis, the code, the checks and the execution on a live, open model.
@@ -49,13 +49,13 @@ padlocks you control.
 <tr>
 <td width="50%" valign="top">
 
-### 🧰 [AJ-Tools](https://github.com/Ajmalpshaik/AJ-Tools)
+### <img src="https://raw.githubusercontent.com/Ajmalpshaik/Heron-Tools/main/docs/brand/heron-app-icon-orange.png" alt="" height="22"> [Heron Tools](https://github.com/Ajmalpshaik/Heron-Tools)
 
-In-house Revit add-in suite with its own [installer](https://github.com/Ajmalpshaik/AJ-Tools-Installer),
-so the whole drafting team runs the same version of the same tools — sheet setup, parameter
-management, duct tools, clash helpers, model QA and family building.
+Everyday Revit tools on the Heron ribbon tab, for Revit 2020 to 2027 — view filters by value,
+colour by parameter, crop to elements, datum extents and bubbles, level reassignment that keeps
+every element in place, element IDs across links, and worksets. *In development.*
 
-`C#` `pyRevit` `PowerShell`
+`C#` `WPF` `Revit API`
 
 </td>
 <td width="50%" valign="top">
