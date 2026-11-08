@@ -37,7 +37,7 @@ handles the analysis, the code, the checks and the execution on a live, open mod
 </td>
 <td width="50%" valign="top">
 
-### 📐 [Heron for AutoCAD](https://github.com/Ajmalpshaik/Heron-AutoCAD)
+### <img src="https://raw.githubusercontent.com/Ajmalpshaik/Heron-AI/main/docs/brand/heron-app-icon-orange.png" alt="" height="22"> [Heron for AutoCAD](https://github.com/Ajmalpshaik/Heron-AutoCAD)
 
 The same idea in AutoCAD: a chat that works in your drawing only when you connect it, behind
 padlocks you control.
